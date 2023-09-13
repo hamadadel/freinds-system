@@ -1,0 +1,5 @@
+composer create-project laravel/laravel freinds
+
+composer require laravel/breeze
+
+php artisan breeze:install
